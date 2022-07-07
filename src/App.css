@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/healthy-groceries-1525213305.jpg");
+  color: blue;
 }
 
 .App-logo {
